@@ -547,6 +547,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [AI Fake Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup) - Free open-source diagnostic that evaluates early-stage AI project ideas through three gates: real user need, replicable delivery, and willingness-to-pay signal.
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
